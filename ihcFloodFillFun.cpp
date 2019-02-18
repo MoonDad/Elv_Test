@@ -3,7 +3,7 @@
 #include <cv.h>
 #include <highgui.h>
 
-
+//test hahahaha
 void ihcFloodFill(IplImage* inputImage,IhcFloodFillSeg* pstSegment,IhcContourInfo* pstCountour,char UpDownFlag,IplImage* outputImage){
 
 	unsigned char *pcImageData,*pcImageDataLeft,*pcImageDataRight;
